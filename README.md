@@ -1,2 +1,2 @@
 # shell_OP
-a miniature version of shell
+a miniature version of shell with ls, echo ...
